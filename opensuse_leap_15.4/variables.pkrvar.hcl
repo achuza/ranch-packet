@@ -1,7 +1,7 @@
 # VSphere Specs
 vcenter_server = "mbiovc1.moonbaseio.com"                 # vCenter FQDN
 username       = "administrator@moonbaseio.com"   # vCenter username 
-password       = "h00UthinkuR!"                # vCenter password
+password       = ""                # vCenter password
 datastore      = "VMFS-Datastore"                    # datastore
 folder         = "templates"                     # VM folder
 host           = "mbioesxi1"                 # ESXi host targeted for build
